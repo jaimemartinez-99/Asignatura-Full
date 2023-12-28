@@ -51,7 +51,7 @@ const MiCuenta = () => {
             <ul>
                 <li>Dirección: <span style={{color: "blue"}}>{addr}</span></li>
                 <li>Balance: <span style={{color: "blue"}}>{balance ?? "??"}</span> ethers</li>
-                <li>Rol:<span style={{color: "blue"}}>{rol}</span></li>
+                <li>Rol: <span style={{color: "blue"}}>{rol}</span></li>
             </ul>
         </article>);
 };

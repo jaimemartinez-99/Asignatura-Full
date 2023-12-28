@@ -40827,12 +40827,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x0E3716a3d75b8bE3eb62FA02dAb06c3ff1F206D0",
-      "transactionHash": "0x2f9f1823c08dc7e9f986d0ee1620c3ed4c1457b54302fca19149102b7a3ee772"
+      "address": "0xf96Fd968c493c5976e2f10B0C5B3E36F4BbAaB0D",
+      "transactionHash": "0xbc66d7212955c8236dfcf37d549ea566824b8c7a0fab6cfc4024362a429badd1"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2023-12-27T16:21:25.575Z",
+  "updatedAt": "2023-12-28T10:43:55.268Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
