@@ -4,7 +4,7 @@ Para ejecutar la aplicación se necesita Ganache.
 
 Para desplegar la aplicación se han de seguir los siguientes pasos:
 
-```
+``` 
 
 $ cd truffle
 $ npx truffle migrate --reset --compile-all
@@ -20,4 +20,10 @@ $ cd dapp
 $ npm install
 $ npm run dev
 
+```
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
 ```
